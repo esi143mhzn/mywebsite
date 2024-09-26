@@ -14,7 +14,7 @@ export default function About() {
             <p className='flex-none text-center w-full text-sm font-medium text-slate-700 mt-5 lg:text-justify md:text-justify'>
                 I am a Full Stack Web developer with 6 years of experience specializing in front end and backend development.
             </p>
-            <a href="https://pramishmhrjn.com.np" target='_blank' className="flex mt-3 p-1.5 bg-gray-200 rounded-lg hover:bg-sky-200">View Portfolio</a>
+            <a href="https://pramishmhrjn.com.np" target='_blank' className="mt-3 pt-3 px-3 bg-gray-200 rounded-lg hover:bg-sky-200">View Portfolio</a>
         </div>
     </div>
   )
