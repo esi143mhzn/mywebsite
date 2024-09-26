@@ -4,7 +4,7 @@ const Data = [
         title: 'My Website',
         description: 'My website is sample wesbite to showcase my projects using ReactJs.',
         links: {
-            github: '',
+            github: 'https://github.com/esi143mhzn/mywebsite',
             website: 'https://pramishmaharjan.com.np/'
         },
 
@@ -22,7 +22,7 @@ const Data = [
     },
     {
         id: 3,
-        title: 'Nasa-Api App',
+        title: 'APOD Project',
         description: 'This app is developed using ReactJS and fetches data from the NASA APOD API.',
         links: {
             github: 'https://github.com/esi143mhzn/nasa-react-app',
